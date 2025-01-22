@@ -1,0 +1,17 @@
+city,temperature,humidity,weather,wind_speed,datetime
+London,4.36,85,overcast clouds,1.54,2025-01-22 22:52:08.661038
+London,4.3,85,overcast clouds,1.54,2025-01-22 22:55:03.672843
+Paris,7.76,98,moderate rain,7.2,2025-01-22 22:55:03.744657
+New York,-6.42,38,clear sky,3.09,2025-01-22 22:55:03.813170
+Tokyo,5.77,60,broken clouds,3.8,2025-01-22 22:55:03.881653
+Mumbai,23.99,57,smoke,2.06,2025-01-22 22:55:03.952030
+London,4.33,85,overcast clouds,1.54,2025-01-22 22:59:01.727465
+Paris,7.76,98,moderate rain,7.2,2025-01-22 22:59:01.800200
+New York,-6.48,38,clear sky,3.09,2025-01-22 22:59:01.869489
+Tokyo,5.77,60,broken clouds,1.34,2025-01-22 22:59:01.937960
+Mumbai,23.99,57,smoke,2.06,2025-01-22 22:59:02.007336
+London,4.33,85,overcast clouds,1.54,2025-01-22 22:59:46.093157
+Paris,7.76,98,moderate rain,7.2,2025-01-22 22:59:46.162048
+New York,-6.4,38,clear sky,3.09,2025-01-22 22:59:46.229641
+Tokyo,5.77,60,broken clouds,1.34,2025-01-22 22:59:46.298240
+Mumbai,23.99,57,smoke,2.06,2025-01-22 22:59:46.366213
